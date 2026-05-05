@@ -14,3 +14,5 @@ Accuracy: ~90%
 - Importance of dataset size
 - Limitations of TF-IDF
 - Handling negation with n-grams
+
+Updated with Git workflow practice
